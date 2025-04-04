@@ -16,7 +16,7 @@
 
 ## **Título**
 
-El titulo que he elegido para mi aplicación es MohaBeats
+El título que he elegido para mi aplicación es MohaBeats
 
 ## **Definición del problema**  
 
